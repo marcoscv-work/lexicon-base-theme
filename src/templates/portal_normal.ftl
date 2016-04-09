@@ -39,12 +39,6 @@
 					<span class="bg-primary icon-bar"></span>
 					<span class="bg-primary icon-bar"></span>
 				</button>
-
-				<!-- USER ICON
-				<div class="pull-right user-personal-bar">
-					<@liferay.user_personal_bar />
-				</div>
-				-->
 			</#if>
 		</div>
 
