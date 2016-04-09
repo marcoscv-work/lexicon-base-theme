@@ -35,9 +35,9 @@
 
 			<#if is_setup_complete>
 				<button aria-controls="navigation" aria-expanded="false" class="collapsed navbar-toggle" data-target="#navigationCollapse" data-toggle="collapse" type="button">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
+					<span class="bg-primary icon-bar"></span>
+					<span class="bg-primary icon-bar"></span>
+					<span class="bg-primary icon-bar"></span>
 				</button>
 
 				<!-- USER ICON
